@@ -1,0 +1,4 @@
+mongo:
+  host: "218.232.111.51"
+  port: 27017
+  db: "uninan_cloud"
